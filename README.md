@@ -9,3 +9,4 @@ Unity version 2022.3.4. Config android build tool chain.
 
 ## Build example aar
 
+Create a new android project in android studio, choosing no activity template.
