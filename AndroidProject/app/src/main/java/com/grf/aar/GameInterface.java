@@ -1,2 +1,4 @@
-package com.grf.aar;public class GameInterface {
+package com.grf.aar;
+
+public class GameInterface {
 }
